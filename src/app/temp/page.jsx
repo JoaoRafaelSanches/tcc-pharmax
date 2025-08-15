@@ -4,7 +4,12 @@ export default function Sobre() {
     <div>
       <h1>acesso a telas</h1>
       <Link href="/sobre">sobre</Link>
-      <Link href="/contato">login</Link>
+      <br />
+      <Link href="/contato">contato</Link>
+      <br />
+      <Link href="/cadastro">cadastro</Link>
+      <br />
+      <Link href="/login">login</Link>
       
       
       
