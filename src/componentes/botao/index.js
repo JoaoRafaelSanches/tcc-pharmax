@@ -4,7 +4,9 @@ export default function Botao({label,acao}) {
 
     <div
      className={styles.containerBotao}
-     onClick={() => acao()}>
+     onClick={() => acao()}
+     >
+
         <label className='txtBotao'>
             {label}
         </label>

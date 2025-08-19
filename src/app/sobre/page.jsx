@@ -23,7 +23,7 @@ export default function Sobre() {
       <br />
 
       <Botao label={"mais um"} acao={() => setNumero(numero + 1)} />
-        <Botao label={"Alerta"} acao={() => alert('erro!')} />
+      <Botao label={"Alerta"} acao={() => alert('erro!')} />
    
     </div>
   );
